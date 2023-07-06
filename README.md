@@ -1,7 +1,5 @@
 ### Hi there 👋
-✨Please feel free to contact me through E-mail.✨
 
-www.deep-learning.ca
 <!--
 **ZeruiW/ZeruiW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
