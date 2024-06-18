@@ -1,4 +1,4 @@
-### Hi 👋                                                                                      📌
+### Hi 👋                                                                                     
 
 I'm Zerui Wang, a PhD student in Computer Engineering at Concordia University, specializing in Explainable AI, CVs, LLMs, Multi-modal models and Cloud AI Services. 
 
