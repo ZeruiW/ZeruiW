@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 👋                                                                                      📌
 
 I'm Zerui Wang, a PhD student in Computer Engineering at Concordia University, specializing in Explainable AI, CVs, LLMs, Multi-modal models and Cloud AI Services. 
 
@@ -7,16 +7,16 @@ I'm Zerui Wang, a PhD student in Computer Engineering at Concordia University, s
 #### 📚 Education
 
 - **PhD in Computer Engineering**  
-  Concordia University, Montreal, Canada  
+  Concordia University, Montreal, Canada  🇨🇦
   *2021 - Present*
 
 - **MSc in Process System Engineering**  
-  Technical University Dortmund, Germany  
-  *2014 - 2017*
+  Technical University Dortmund, Germany  🇩🇪
+  *2014 - 2017* 
 
 - **BSc in Process System Engineering**  
-  China University of Mining and Technology, China  
-  *2010 - 2014*
+  China University of Mining and Technology, China  🇨🇳
+  *2010 - 2014* 
 
 ---
 
@@ -33,11 +33,11 @@ I'm Zerui Wang, a PhD student in Computer Engineering at Concordia University, s
 
 #### 🌐 Connect with Me
 
-- [Portfolio Website](https://deep-learning.ca/)
-- [GitHub](https://github.com/ZeruiW)
-- [LinkedIn](https://www.linkedin.com/in/zerui/)
-- [Email](mailto:wangzerui418@gmail.com)
+- [Portfolio Website](https://deep-learning.ca/) 🌐
+- [GitHub](https://github.com/ZeruiW) 🐙
+- [LinkedIn](https://www.linkedin.com/in/zerui/) 💼
+- [Email](mailto:wangzerui418@gmail.com) 📧
 
 ---
 
-Thanks for visiting! Let's connect and collaborate!
+Thanks for visiting! Let's connect and collaborate! ✨
