@@ -37,7 +37,7 @@ I'm Zerui Wang, a PhD student in Computer Engineering at Concordia University, s
 - [GitHub](https://github.com/ZeruiW) 🐙
 - [LinkedIn](https://www.linkedin.com/in/zerui/) 💼
 - [Email](mailto:wangzerui418@gmail.com) 📧
-
+- [HuggingFace](https://huggingface.co/wangzerui) 🤗
 ---
 
 Thanks for visiting! Let's connect and collaborate! ✨
