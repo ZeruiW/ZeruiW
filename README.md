@@ -12,7 +12,7 @@ I'm Zerui Wang, a PhD student in Computer Engineering at Concordia University, s
 
 - **MSc in Process System Engineering**  
   Technical University Dortmund, Germany  🇩🇪
-  *2014 - 2017* 
+  *2014 - 2018* 
 
 - **BSc in Process System Engineering**  
   China University of Mining and Technology, China  🇨🇳
