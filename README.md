@@ -1,43 +1,85 @@
-### Hi 👋                                                                                     
+# Hi, I'm Zerui Wang
 
-I'm Zerui Wang, a PhD student in Computer Engineering at Concordia University, specializing in Explainable AI, CVs, LLMs, Multi-modal models and Cloud AI Services. 
+**AI Engineer** | **PhD in Computer Engineering** | **Explainable AI Researcher**
 
----
-
-#### 📚 Education
-
-- **PhD in Computer Engineering**  
-  Concordia University, Montreal, Canada  🇨🇦
-  *2021 - Present*
-
-- **MSc in Process System Engineering**  
-  Technical University Dortmund, Germany  🇩🇪
-  *2014 - 2018* 
-
-- **BSc in Process System Engineering**  
-  China University of Mining and Technology, China  🇨🇳
-  *2010 - 2014* 
+I build interpretable AI systems for video understanding and develop tools that make AI decisions transparent and trustworthy.
 
 ---
 
-#### 📄 Selected Publications
+## Research Interests
 
-- [The Analysis and Development of an XAI Process on Feature Contribution Explanation](https://ieeexplore.ieee.org/document/10020313), *IEEE BigData 2022*
-- [An Open API Architecture to Discover the Trustworthy Explanation of Cloud AI Services](https://ieeexplore.ieee.org/document/10529172), *IEEE TCC 2024*
-- [XAIport: A Service Framework for the Early Adoption of XAI in AI Model Development](https://dl.acm.org/doi/10.1145/3639476.3639759), *ICSE 2024*
-- [Cloud-based XAI Services for Assessing Open Repository Models Under Adversarial Attacks](https://arxiv.org/abs/2401.12261), *IEEE SSE 2024*
-- [A Trustworthy View on Explainable Artificial Intelligence Method Evaluation](https://ieeexplore.ieee.org/document/10098190), *IEEE Computer 2023*
-- [Linking Team-level and Organization-level Governance in Machine Learning Operations through Explainable AI and Responsible AI Connector](https://ieeexplore.ieee.org/document/10197114), *COMPSAC 2023*
+At the intersection of **Computer Vision**, **Explainable AI**, and **Agentic Systems**. My work focuses on:
+
+- Interpretable deep learning for video analysis
+- Transformer architectures with attention attribution
+- Spatio-temporal understanding in video models
+- Adversarial robustness and AI trustworthiness
+- AI systems that communicate their reasoning
 
 ---
 
-#### 🌐 Connect with Me
+## Featured Research
 
-- [Portfolio Website](https://deep-learning.ca/) 🌐
-- [GitHub](https://github.com/ZeruiW) 🐙
-- [LinkedIn](https://www.linkedin.com/in/zerui/) 💼
-- [Email](mailto:wangzerui418@gmail.com) 📧
-- [HuggingFace](https://huggingface.co/wangzerui) 🤗
+### STAA: Spatio-Temporal Attention Attribution
+A novel XAI method for interpreting video Transformer models that provides both spatial and temporal explanations in a single forward pass with <3% computational overhead.
+- Published in **IEEE Access** (2025)
+- [Paper](https://arxiv.org/abs/2411.00630)
+
+### XAIport: XAI Service Framework
+A microservice framework for early adoption of Explainable AI in MLOps pipelines, enabling cloud-agnostic XAI operations.
+- Published at **ICSE 2024** (Premier Software Engineering Conference)
+- [Paper](https://dl.acm.org/doi/10.1145/3639476.3639759) | [GitHub](https://github.com/ZeruiW/XAI-Service)
+
+### Cloud AI Explainability
+Open API architecture for discovering trustworthy explanations of cloud AI services without exposing model internals.
+- Published in **IEEE Transactions on Cloud Computing** (2024)
+- [Paper](https://ieeexplore.ieee.org/document/10529172)
+
 ---
 
-Thanks for visiting! Let's connect and collaborate! ✨
+## Publications
+
+10 peer-reviewed papers in top venues including:
+- **ICSE** (A* Conference)
+- **IEEE Transactions on Cloud Computing** (Q1 Journal, IF: 5.3)
+- **IEEE Access** (Q1 Journal)
+- **ACM TOMM** (Under Review)
+- IEEE SSE, COMPSAC, IEEE Big Data
+
+[View all publications on Google Scholar](https://scholar.google.com/citations?user=QQpnwdoAAAAJ&hl=en)
+
+---
+
+## Open Source
+
+- **[XAIport](https://github.com/ZeruiW/XAI-Service)** - Explainable AI service framework for cloud and open-source models
+- **[XAIpipeline](https://github.com/ZeruiW/XAI-Service)** - Automated orchestration of XAI workflows
+
+---
+
+## Academic Service
+
+- **Peer Reviewer**: 20+ manuscripts for IEEE Transactions and AAAI Conference
+- **Workshop Lead**: CASCON 2024 - "Develop Explainable AI Services on Cloud Computing"
+- **Member**: IEEE Computer Society, ACM
+
+---
+
+## Background
+
+- **PhD** in Computer Engineering, Concordia University, Canada (2025)
+- **MSc** in Process System Engineering, TU Dortmund, Germany
+- **BSc** in Process System Engineering, CUMT, China
+
+---
+
+## Let's Connect
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zerui-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zerui/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=QQpnwdoAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-wangzerui418%40gmail.com-red?style=flat-square&logo=gmail)](mailto:wangzerui418@gmail.com)
+
+---
+
+*"Making AI transparent, trustworthy, and accountable."*
