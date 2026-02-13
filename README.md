@@ -7,7 +7,7 @@
 
 *Building AI systems that see, understand, and explain themselves.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.xaiport.com-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://xaiport.com/](https://www.xaiport.com/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-xaiport.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.xaiport.com/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-12_Papers_|_101_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QQpnwdoAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zerui/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangzerui418@gmail.com)
